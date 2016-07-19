@@ -1,9 +1,9 @@
 # Engineering Manager Resources
 
 A collection of engineering manager resources I've found over time.
-I need to go over again and add notes and cull for quality.
+I need to go over again and add notes, cull for quality, and organize.
 
-## Posts
+## Posts & Podcasts
 
 * [Three Suggestions for Engineering Managers](http://www.kevgibbs.com/2011/08/3-suggestions-for-engineering-managers)
 
@@ -15,9 +15,17 @@ I need to go over again and add notes and cull for quality.
 
 * [What are some characteristics of a bad engineering manager?](https://www.quora.com/What-are-the-characteristics-of-a-bad-engineering-manager?share=1)
 
-## Podcasts
+* [Selena Deckelmann - "Manager Newbie"](http://www.codenewbie.org/podcast/manager-newbie)
 
-* [Podcast from Selena, "Manager Newbie"](http://www.codenewbie.org/podcast/manager-newbie)
+## Transitioning from Engineer to Engineering Manager
+
+* [Cate Huston - The Hardest, Shortest, Lesson on Becoming a Manager](http://www.catehuston.com/blog/2015/12/23/the-hardest-shortest-lesson-becoming-a-manager/)
+
+* [Skyler Whorton - Becoming a Tech Lead: How I've Balanced Coding with Coasching](http://product.hubspot.com/blog/tech-lead-balancing-coaching-with-coding)
+
+## Leadership
+
+* [To Lead Well, Make Time to Play at Work](https://www.leadfully.com/blog/make-time-to-play-at-work/)
 
 ## Good Engineering Manager/Bad Engineering Manager
 
