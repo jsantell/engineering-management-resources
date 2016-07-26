@@ -17,6 +17,11 @@ I need to go over again and add notes, cull for quality, and organize.
 
 * [Selena Deckelmann - "Manager Newbie"](http://www.codenewbie.org/podcast/manager-newbie)
 
+* [A Manager's FAQ](https://readthink.com/a-managers-faq-35858a229f84#.74mp0kbv6)
+
+* [Unintuitive Things I've Learned About Management](https://medium.com/the-year-of-the-looking-glass/unintuitive-things-i-ve-learned-about-management-f2c42d68604b) [(part 2)](https://medium.com/the-year-of-the-looking-glass/unintuitive-things-i-ve-learned-about-management-part-2-7c22fc9d87ed)
+
+
 ## Transitioning from Engineer to Engineering Manager
 
 * [Cate Huston - The Hardest, Shortest, Lesson on Becoming a Manager](http://www.catehuston.com/blog/2015/12/23/the-hardest-shortest-lesson-becoming-a-manager/)
@@ -33,10 +38,7 @@ Engineering management versions of Ben Horowitz's [Good Product Manager, Bad Pro
 
 * [Andy Britcliffe](http://www.andybritcliffe.com/post/80176050027/good-engineering-managerbad-engineer-manager)
 * [Dean Hume](http://deanhume.com/Home/BlogPost/good-engineering-manager---bad-engineering-manager/9123)
-
-## General Management
-
-* [A Manager's FAQ](https://readthink.com/a-managers-faq-35858a229f84#.74mp0kbv6)
+* [Julie Zhuo (Average Manager vs Great Manager)](https://medium.com/the-year-of-the-looking-glass/average-manager-vs-great-manager-cf8a2e30907d)
 
 ## Books
 
