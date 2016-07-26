@@ -46,3 +46,7 @@ Engineering management versions of Ben Horowitz's [Good Product Manager, Bad Pro
 
 * [Occupational Employment Statistics, May 2014, Engineering and Architectural Managers](
 http://www.bls.gov/oes/current/oes119041.htm#%285%29)
+
+## Uncategorized
+
+* [Margaret Leibovic - A Year in Management](http://blog.margaretleibovic.com/2016/05/04/a-year-in-management.html)
