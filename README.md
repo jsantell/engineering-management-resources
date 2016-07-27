@@ -49,5 +49,7 @@ Engineering management versions of Ben Horowitz's [Good Product Manager, Bad Pro
 
 ## Resources
 
+* [re:Work from Google](https://rework.withgoogle.com) - A collection of actionable tasks, case studies and guides for managers.
+
 * [Occupational Employment Statistics, May 2014, Engineering and Architectural Managers](
 http://www.bls.gov/oes/current/oes119041.htm#%285%29)
