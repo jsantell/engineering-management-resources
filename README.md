@@ -5,6 +5,8 @@ I need to go over again and add notes, cull for quality, and organize.
 
 ## Posts & Podcasts
 
+### General
+
 * [Three Suggestions for Engineering Managers](http://www.kevgibbs.com/2011/08/3-suggestions-for-engineering-managers)
 
 * [This is what impactful engineering leadership looks like](http://firstround.com/review/this-is-what-impactful-engineering-leadership-looks-like/)
@@ -15,24 +17,25 @@ I need to go over again and add notes, cull for quality, and organize.
 
 * [What are some characteristics of a bad engineering manager?](https://www.quora.com/What-are-the-characteristics-of-a-bad-engineering-manager?share=1)
 
-* [Selena Deckelmann - "Manager Newbie"](http://www.codenewbie.org/podcast/manager-newbie)
-
 * [A Manager's FAQ](https://readthink.com/a-managers-faq-35858a229f84#.74mp0kbv6)
 
 * [Unintuitive Things I've Learned About Management](https://medium.com/the-year-of-the-looking-glass/unintuitive-things-i-ve-learned-about-management-f2c42d68604b) [(part 2)](https://medium.com/the-year-of-the-looking-glass/unintuitive-things-i-ve-learned-about-management-part-2-7c22fc9d87ed)
 
+* [Margaret Leibovic - A Year in Management](http://blog.margaretleibovic.com/2016/05/04/a-year-in-management.html)
 
-## Transitioning from Engineer to Engineering Manager
+### New Managers
 
 * [Cate Huston - The Hardest, Shortest, Lesson on Becoming a Manager](http://www.catehuston.com/blog/2015/12/23/the-hardest-shortest-lesson-becoming-a-manager/)
 
 * [Skyler Whorton - Becoming a Tech Lead: How I've Balanced Coding with Coasching](http://product.hubspot.com/blog/tech-lead-balancing-coaching-with-coding)
 
-## Leadership
+* [Selena Deckelmann - "Manager Newbie"](http://www.codenewbie.org/podcast/manager-newbie)
+
+### Leadership
 
 * [To Lead Well, Make Time to Play at Work](https://www.leadfully.com/blog/make-time-to-play-at-work/)
 
-## Good Engineering Manager/Bad Engineering Manager
+### Good Engineering Manager/Bad Engineering Manager
 
 Engineering management versions of Ben Horowitz's [Good Product Manager, Bad Product Manager](http://a16z.com/2012/06/15/good-product-managerbad-product-manager/).
 
@@ -48,7 +51,3 @@ Engineering management versions of Ben Horowitz's [Good Product Manager, Bad Pro
 
 * [Occupational Employment Statistics, May 2014, Engineering and Architectural Managers](
 http://www.bls.gov/oes/current/oes119041.htm#%285%29)
-
-## Uncategorized
-
-* [Margaret Leibovic - A Year in Management](http://blog.margaretleibovic.com/2016/05/04/a-year-in-management.html)
