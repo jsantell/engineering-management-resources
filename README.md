@@ -35,6 +35,9 @@ I need to go over again and add notes, cull for quality, and organize.
 
 * [To Lead Well, Make Time to Play at Work](https://www.leadfully.com/blog/make-time-to-play-at-work/)
 
+* [Brent Baisley - The Problem with Tech Leads](https://medium.com/@Bar_Code/the-problem-with-tech-leads-a840af1f511c#.22wp9jkg5)
+
+
 ### Good Engineering Manager/Bad Engineering Manager
 
 Engineering management versions of Ben Horowitz's [Good Product Manager, Bad Product Manager](http://a16z.com/2012/06/15/good-product-managerbad-product-manager/).
@@ -43,6 +46,10 @@ Engineering management versions of Ben Horowitz's [Good Product Manager, Bad Pro
 * [Dean Hume](http://deanhume.com/Home/BlogPost/good-engineering-manager---bad-engineering-manager/9123)
 * [Julie Zhuo (Average Manager vs Great Manager)](https://medium.com/the-year-of-the-looking-glass/average-manager-vs-great-manager-cf8a2e30907d)
 
+### Hiring
+
+* ["Women and Minorities Don't Apply"](https://twitter.com/i/moments/788795068530331648)
+
 ## Books
 
 * [Startup Engineering Management](http://books.piaw.net/management/index.html)
@@ -50,6 +57,8 @@ Engineering management versions of Ben Horowitz's [Good Product Manager, Bad Pro
 ## Resources
 
 * [re:Work from Google](https://rework.withgoogle.com) - A collection of actionable tasks, case studies and guides for managers.
+
+* [Bruce Tuckman's 1965 Forming Storming Norming Performing team-development model](http://www.businessballs.com/tuckmanformingstormingnormingperforming.htm)
 
 * [Occupational Employment Statistics, May 2014, Engineering and Architectural Managers](
 http://www.bls.gov/oes/current/oes119041.htm#%285%29)
